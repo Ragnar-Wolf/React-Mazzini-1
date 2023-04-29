@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Mazzini-1/static/css/main.c22a35ca.css",
+    "main.js": "/React-Mazzini-1/static/js/main.1539d1b2.js",
+    "index.html": "/React-Mazzini-1/index.html",
+    "main.c22a35ca.css.map": "/React-Mazzini-1/static/css/main.c22a35ca.css.map",
+    "main.1539d1b2.js.map": "/React-Mazzini-1/static/js/main.1539d1b2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c22a35ca.css",
+    "static/js/main.1539d1b2.js"
+  ]
+}
